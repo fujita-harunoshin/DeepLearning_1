@@ -1,8 +1,11 @@
 {
   "cSpell.words": [
     "arange",
+    "argmax",
     "astype",
     "dtype",
+    "fromarray",
+    "frombuffer",
     "NAND",
     "pylab",
     "relu",
