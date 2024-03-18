@@ -1,7 +1,11 @@
 {
   "cSpell.words": [
+    "arange",
     "astype",
+    "dtype",
     "NAND",
-    "pylab"
+    "pylab",
+    "relu",
+    "ylim"
   ]
 }
