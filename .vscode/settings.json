@@ -6,6 +6,7 @@
     "NAND",
     "pylab",
     "relu",
+    "softmax",
     "ylim"
   ]
 }
