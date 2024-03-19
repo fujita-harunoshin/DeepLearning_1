@@ -3,10 +3,17 @@
     "arange",
     "argmax",
     "astype",
+    "backprop",
+    "dall",
+    "dorange",
+    "dout",
+    "dprice",
+    "dtax",
     "dtype",
     "fromarray",
     "frombuffer",
     "iternext",
+    "linestyle",
     "NAND",
     "ndarray",
     "ndim",
@@ -15,6 +22,9 @@
     "randn",
     "relu",
     "softmax",
+    "xlabel",
+    "xlim",
+    "ylabel",
     "ylim"
   ]
 }
