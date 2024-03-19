@@ -6,8 +6,13 @@
     "dtype",
     "fromarray",
     "frombuffer",
+    "iternext",
     "NAND",
+    "ndarray",
+    "ndim",
+    "nditer",
     "pylab",
+    "randn",
     "relu",
     "softmax",
     "ylim"
